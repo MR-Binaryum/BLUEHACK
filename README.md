@@ -52,4 +52,17 @@ sudo sh BLUEHACK.sh ----> Execution of the file like super user (Root).
 
 # BLUETOOTH STACKS png:
 
+image-1:
+
+![BR_BC-BLE_ProtocolStack](https://github.com/user-attachments/assets/c15d5220-ac40-4496-af96-e64c86c54014)
+
+image-2:
+
+![Stacks-Versions](https://github.com/user-attachments/assets/7820ea41-8146-469c-93cf-016802e2a2bb)
+
+# BC/BR stacks png:
+
+![BluetoothStack](https://github.com/user-attachments/assets/ac8d8e66-523d-4787-b079-b8fc656f4c51)
+
+
 
