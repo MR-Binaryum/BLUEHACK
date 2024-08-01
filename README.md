@@ -6,7 +6,7 @@ To use this hacking script you gonna need a wireless card that can support doubl
 
 Currently must of computers and phones supports this double stack.
 
-This suite tool its just finished on a 50% because are two pages and not just one.
+This suite tool its just finished on a 50% because there are two pages and one of them are on development.
 
 ###REQUERIMENTS###
 
