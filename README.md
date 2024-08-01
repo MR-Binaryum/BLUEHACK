@@ -48,4 +48,8 @@ git clone https://github.com/MR-Binaryum/BLUEHACK.git ---> Downloads the reposit
 cd BLUEHACK ---> You get access to the folder.
 
 sudo chmod +x * -R  ----> Give permissions to all files and subfolders from folder BLUEHACK.
-sudo sh WIFICRASHER.sh ----> Execution of the file like super user (Root).
+sudo sh BLUEHACK.sh ----> Execution of the file like super user (Root).
+
+# BLUETOOTH STACKS png:
+
+
