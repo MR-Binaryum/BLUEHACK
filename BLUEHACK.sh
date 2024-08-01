@@ -290,7 +290,7 @@ echo
                                                             fi    
 }
 
-#### Here you have automated/personalized 0 day exploits to get pairing and connection on a device bypassing PIN validation security. ####
+#### A option to check youre bluetooth config. ####
 
 
 BlueConf(){
