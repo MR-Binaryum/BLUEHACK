@@ -13,19 +13,29 @@ This suite tool its just finished on a 50% because are two pages and not just on
 You have to get installed:
 
 bluez 
+
 python3 
+
 ubertooth 
+
 w3m 
+
 git 
+
 bluez-hcidump 
+
 libbluetooth-dev 
+
 bluetooth 
+
 python3-pip 
+
 libglib2.0-dev 
 
 Python3 libs:
 
 bleak 
+
 bluetooth
 
 
