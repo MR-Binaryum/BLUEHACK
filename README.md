@@ -36,7 +36,7 @@ Python3 libs:
 
 bleak 
 
-bluetooth
+pybluz
 
 
 Debian distributions install ---> sudo apt-get install bluez python3 ubertooth w3m git bluez-hcidump libbluetooth-dev bluetooth python3-pip libglib2.0-dev && sudo apt install python3-bleak python3-bluetooth
