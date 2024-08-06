@@ -36,7 +36,7 @@ Python3 libs:
 
 bleak 
 
-pybluz
+pybluez
 
 
 Debian distributions install ---> sudo apt-get install bluez python3 ubertooth w3m git bluez-hcidump libbluetooth-dev bluetooth python3-pip libglib2.0-dev && sudo apt install python3-bleak python3-bluetooth
@@ -64,6 +64,3 @@ image-2:
 # BC/BR stacks png:
 
 ![BluetoothStack](https://github.com/user-attachments/assets/ac8d8e66-523d-4787-b079-b8fc656f4c51)
-
-
-
