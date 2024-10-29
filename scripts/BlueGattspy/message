@@ -1,0 +1,21 @@
+if the GATT connection doesn't works can be for three reasons
+
+
+
+1. The device has not been found...
+
+--> This can be by Random MAC security method from BLE devices.
+
+2. The device rejected the GATT connection...
+
+--> There are devices can reject GATT connections by last security method or because use PIN but you dont have to worry if L2CAP connection connects but you need a PIN dont worry GATT commands
+later gonna help you, take in mind that L2CAP test connect its to check if you can extract de GATT data knowing if you can comm with device.
+
+Mostly of BLE devices doesnt require PIN because are foccused like periphericals but sometimes there are devices that can have BLE/BR stack at the same time on the same device.
+
+And other times can be a master device so there you maybe need the PIN but on general BLE devices doesnt require...
+
+3. The device is not BLE...
+
+--> Obvius thing but we have to say, if device doesnt have GATT protocol on his stack because its BC/BR/ that use RFCOMM stack dont gonnar work.
+
