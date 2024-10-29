@@ -53,11 +53,11 @@ sudo sh BLUEHACK.sh ----> Execution of the file like super user (Root).
 
 # BLUETOOTH STACKS png:
 
-image-1:
+
 
 ![BR_BC-BLE_ProtocolStack](https://github.com/user-attachments/assets/c15d5220-ac40-4496-af96-e64c86c54014)
 
-image-2:
+# Bluetooth stack versions
 
 ![Stacks-Versions](https://github.com/user-attachments/assets/7820ea41-8146-469c-93cf-016802e2a2bb)
 
