@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8ea87c78-f3b9-42b7-a108-5d3065aa34b6)# BLUEHACK
+# BLUEHACK
 
 BLUEHACK its a suite tool developed to hack BLE and BC/BR bluetooth devices.
 
