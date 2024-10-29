@@ -90,8 +90,9 @@ Another option that you should be use its scripts/L2CAP/l2capBLEtest.py to hook 
 
 1. You can comm with BC/BR/EDR devices even if they aren't on discoverable Mode, when you know the MAC address of target.
 2. BLE has a support between 0-78 channels, and Bluetooth devices with RFCOMM stack goes 1-30 channels.
+3. Bluetooth Works on 2.4 GHz Frecuency (Take in mind if you want do some hardware jammers or hacking tricks).
 
 ![image](https://github.com/user-attachments/assets/af89eac5-60a5-420e-9170-a9637a8e347f)
 
-3. Bluetooth Works on 2.4 GHz Frecuency (Take in mind if you want do some hardware jammers or hacking tricks).
+
    
